@@ -99,5 +99,4 @@ Find the titles of films released either before the year 2000 or with a replacem
 ```SQL
 SELECT title FROM film
 WHERE replacement_cost < 10 OR release_year < 2000;
-``
 ```

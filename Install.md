@@ -32,4 +32,4 @@ sudo -u postgres psql
 
 # Disclaimer
 
-In my case, I had to download pgadmin4, pgadmin4-desktop and pgadmin4-web where as in the documentation it was said in the documentation that we only need to install the first <pgadmin4> to get both desktop and web versions.
+In my case, I had to download pgadmin4, pgadmin4-desktop and pgadmin4-web where as in the documentation it was said that we only need to install the first package <pgadmin4> to get both desktop and web versions.
